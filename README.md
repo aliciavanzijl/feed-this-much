@@ -2,13 +2,7 @@
 ## How to feed your pets?  
 II1305 Project 
 
-thumbnail.png
-
-
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
-
-
-
+[![Watch the video](https://raw.githubusercontent.com/aliciavanzijl/feed-this-much/main/thumbnail.png)](https://raw.githubusercontent.com/aliciavanzijl/feed-this-much/main/feedthismuchdemo01.mp4)
 
 # Windows
 If you are using Windows, you can install WSL and follow the rest of instructions. 
