@@ -2,6 +2,8 @@
 ## How to feed your pets?  
 II1305 Project 
 
+View Figma prototype [here](https://www.figma.com/proto/Mjxv02iieleyZnnUAyROZ9/KTH-II1305---Feed-This-Much?node-id=2033-1210&p=f&t=2Xsp7OIooKN6pQoU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2004%3A748&show-proto-sidebar=1).
+
 watch the demo video here:
 
 [![DEMO VIDEO](http://img.youtube.com/vi/x_qqiNi8j6I/0.jpg)](http://www.youtube.com/watch?v=x_qqiNi8j6I "Feed this much app demo")
