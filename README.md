@@ -2,7 +2,8 @@
 ## How to feed your pets?  
 II1305 Project 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_qqiNi8j6I?si=-JPFp2S3qqfeWu-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+watch the demo video here:
+[![DEMO VIDEO](http://img.youtube.com/vi/x_qqiNi8j6I/0.jpg)](http://www.youtube.com/watch?v=x_qqiNi8j6I "Feed this much app demo")
 
 # Windows
 If you are using Windows, you can install WSL and follow the rest of instructions. 
