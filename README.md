@@ -2,6 +2,8 @@
 ## How to feed your pets?  
 II1305 Project 
 
+[![Watch the video demo](https://img.youtube.com/vi/x_qqiNi8j6I/0.jpg)](https://www.youtube.com/watch?v=x_qqiNi8j6I)
+
 # Windows
 If you are using Windows, you can install WSL and follow the rest of instructions. 
 
