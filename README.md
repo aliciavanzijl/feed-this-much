@@ -9,11 +9,15 @@ I was the Product Owner for the project and as part of this role I divided the f
 Note: the app is no longer live, but a video demo is available.
 
 [Expo Website](https://teamrecurrent.wixsite.com/feed-this-much-expo)
+
 [Main Github](https://github.com/bobach/feed-this-much)
+
 [My Contributions](https://github.com/bobach/feed-this-much/commits?author=aliciavanzijl)
+
 [Figma Prototype](https://www.figma.com/proto/Mjxv02iieleyZnnUAyROZ9/KTH-II1305---Feed-This-Much?node-id=2004-748&starting-point-node-id=2004%3A748&t=fMw60tPSMevIzzOb-1)
 
 watch the demo video here:
+
 [![DEMO VIDEO](http://img.youtube.com/vi/x_qqiNi8j6I/0.jpg)](http://www.youtube.com/watch?v=x_qqiNi8j6I "Feed this much app demo")
 
 
