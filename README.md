@@ -2,12 +2,22 @@
 ## How to feed your pets?  
 II1305 Project 
 
-View Figma prototype [here](https://www.figma.com/proto/Mjxv02iieleyZnnUAyROZ9/KTH-II1305---Feed-This-Much?node-id=2033-1210&p=f&t=2Xsp7OIooKN6pQoU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2004%3A748&show-proto-sidebar=1).
+A group project where we created a React web app for dog and cat owners. The Feed This Much web app helps pet owners create personalized feeding plans tailored to their pets' specific needs based on current (2024) scientific nutritional guidelines by the European Pet Food Industry Federation (FEDIAF).  It calculates the amount of food to give a pet, including a combination of two different foods, and can divide this over a custom number of meals.
+
+I was the Product Owner for the project and as part of this role I divided the features of the product into tasks which could be completed within sprints, and communicated the needs of the users to the developers.  I was also a developer, and worked mostly with the front-end development to create the custom forms using React, JavaScript, TypeScript, Shadcn components, and Zod form validation.  I also did the research to get the formulas used to calculate the nutritional needs of the dogs and cats, assisted in the configuration of the database and API, and contributed to the functionality of the calculation logic and API connectivity in Python.  I also created an initial Figma prototype (not all the pages, due to time constraints, but it was used as a starting point so the team could visualize what we were aiming for).
+
+Note: the app is no longer live, but a video demo is available.
+
+[Expo Website](https://teamrecurrent.wixsite.com/feed-this-much-expo)
+[Main Github](https://github.com/bobach/feed-this-much)
+[My Contributions](https://github.com/bobach/feed-this-much/commits?author=aliciavanzijl)
+[Figma Prototype](https://www.figma.com/proto/Mjxv02iieleyZnnUAyROZ9/KTH-II1305---Feed-This-Much?node-id=2004-748&starting-point-node-id=2004%3A748&t=fMw60tPSMevIzzOb-1)
 
 watch the demo video here:
-
 [![DEMO VIDEO](http://img.youtube.com/vi/x_qqiNi8j6I/0.jpg)](http://www.youtube.com/watch?v=x_qqiNi8j6I "Feed this much app demo")
 
+
+## Setup Notes:
 # Windows
 If you are using Windows, you can install WSL and follow the rest of instructions. 
 
